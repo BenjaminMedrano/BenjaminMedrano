@@ -19,7 +19,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,github,powershell)](https://skillicons.dev)
 
-*:bell: Me interesa el desarrollo de aplicaciones*
+*:bell: Me interesa el desarrollo de aplicaciones y aprender cosas nuevas*
+
+*:sunglasses: para contactareme puedea hablarme a mi correo :email:*
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joel.64jo@gmail.com)
