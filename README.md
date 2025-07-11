@@ -8,5 +8,5 @@
 
 *Pasa tiempos: jugar futbol :soccer: y videojuegos :trollface:*
 *Herramientas que se usar :*
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
