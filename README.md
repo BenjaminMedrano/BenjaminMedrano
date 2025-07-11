@@ -9,7 +9,7 @@
 
 *Pasa tiempos: jugar futbol :soccer: y videojuegos :trollface:*
 
-*pais: Bolivia_CBB*
+*pais: Bolivia_CBBA*
 
 :computer: *Estudio ingenieria en sistemas*
 
@@ -21,7 +21,7 @@
 
 *:bell: Me interesa el desarrollo de aplicaciones y aprender cosas nuevas*
 
-*:sunglasses: para contactareme puedea hablarme a mi correo :email:*
+*:sunglasses: para contactareme puedes hablarme a mi correo :email:*
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joel.64jo@gmail.com)
