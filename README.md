@@ -8,7 +8,7 @@
 
 *Pasa tiempos: jugar futbol :soccer: y videojuegos :trollface:*
 
-*Herramientas:file_folder: :*
+*Herramientas: :file_folder: :*
 
 [![My Skills](https://skillicons.dev/icons?i=java,github,powershell)](https://skillicons.dev)
 
