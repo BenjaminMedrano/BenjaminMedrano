@@ -18,7 +18,7 @@
 *:bell: Me interesa el desarrollo de aplicaciones*
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.joel.64jo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joel.64jo@gmail.com)
 
 [![My Skills](https://skillicons.dev/icons?i=java,github,powershell)](https://skillicons.dev)
 
